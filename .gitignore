@@ -1,0 +1,40 @@
+# Build output
+**/target/
+**/build/
+**/out/
+
+# Maven wrapper generated artifact
+**/.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# Environment and local config
+.env
+.env.*
+!.env.example
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+.sts4-cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java artifacts
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
