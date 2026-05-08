@@ -1,0 +1,25 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.javaproject:ems-backend >---------------------
+[INFO] Building ems-backend 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.9.0:list (default-cli) @ ems-backend ---
+[INFO] 
+[INFO] The following files have been resolved:
+[INFO]    org.springframework.boot:spring-boot-starter-actuator:jar:4.0.2:compile -- module spring.boot.starter.actuator [auto]
+[INFO]    org.springframework.boot:spring-boot-starter-data-jpa:jar:4.0.2:compile -- module spring.boot.starter.data.jpa [auto]
+[INFO]    org.springframework.boot:spring-boot-starter-webmvc:jar:4.0.2:compile -- module spring.boot.starter.webmvc [auto]
+[INFO]    com.mysql:mysql-connector-j:jar:9.5.0:runtime -- module mysql.connector.j (auto)
+[INFO]    com.h2database:h2:jar:2.4.240:test -- module com.h2database [auto]
+[INFO]    org.projectlombok:lombok:jar:1.18.42:compile (optional) -- module lombok
+[INFO]    org.springframework.boot:spring-boot-starter-data-jpa-test:jar:4.0.2:test -- module spring.boot.starter.data.jpa.test [auto]
+[INFO]    org.springframework.boot:spring-boot-starter-webmvc-test:jar:4.0.2:test -- module spring.boot.starter.webmvc.test [auto]
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.273 s
+[INFO] Finished at: 2026-05-07T07:56:31+02:00
+[INFO] ------------------------------------------------------------------------
